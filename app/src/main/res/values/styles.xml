@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:onClick">buttonClick</item>
+        <item name="android:backgroundTint">@color/cardview_dark_background</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bermain Puzzle Huruf</string>
+    <string name="start_puzzle">Start Puzzle</string>
+    <string name="title">Puzzle Huruf</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="appbar_title">Bermain Puzzle Huruf</string>
+    <string name="Ulangi">Ulangi</string>
+    <string name="Keluar">Keluar</string>
+</resources>
